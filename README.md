@@ -33,4 +33,5 @@ Replay Option:
 Give the player the option to play again once the game is over.
 If the player chooses to play again, reset the game and generate a new random number.
 
-![Alt text](image.png)
+
+![image](https://github.com/Bubbles76/NumberGuessingGame/assets/81381376/10f375f5-3a10-471d-806e-0ddf5425fdbf)
